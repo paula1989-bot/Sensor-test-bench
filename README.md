@@ -1,5 +1,4 @@
-# Sensor-test-bench
-# ESP32 + MPU6050 test bench simulated in Wokwi: I2C sensor reading, UART logging and Python PASS/FAIL checks
+
 # Sensor Test Bench
 
 Simulated test bench: an ESP32 reads an MPU6050 IMU sensor over I2C
